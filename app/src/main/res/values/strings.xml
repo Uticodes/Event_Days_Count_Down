@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">DevFest Count Down</string>
+    <string name="days_time_format">DAY</string>
+    <string name="logged_in_as">Logged in as:</string>
+    <string name="days_left">DAYS LEFT</string>
+    <string name="devFestDay">#devFestUyo2019</string>
+    <string name="about_app_builder">Built by Utibe Etim, Android Developer @Jiggle \n ALC 4.0 Lead Mentor Akwa Ibom, HNG 6.0 Intern || - Twitter| @Utcodes</string>
+    <string name="about_app">ABOUT APP</string>
+    <string name="user_confirmation_ok">OK</string>
+    <string name="name">NAME</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="already_have_an_account_login">Already have an account? LogIn</string>
+    <string name="devfest">DevFst Uyo</string>
+    <string name="password">PASSWORD</string>
+    <string name="email">EMAIL</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="new_user_sign_up">New User? Sign up</string>
+    <string name="sign_in_btn">SIGN IN</string>
+    <string name="remember_me">Remember me</string>
+</resources>
